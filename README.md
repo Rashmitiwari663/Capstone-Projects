@@ -1,2 +1,2 @@
-# Capstone-Projects
+# Capstone-Project
 Customer Churn Analytics 
