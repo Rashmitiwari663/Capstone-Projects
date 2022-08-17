@@ -1,2 +1,2 @@
 # Capstone-Project
-Customer Churn Analysis 
+1. Customer Churn Analysis 
